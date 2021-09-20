@@ -9,4 +9,6 @@
     
 ## Files:
 
-[Dataset](https://github.com/rehamessameltagoury/IndustryClassificationTask/blob/main/Job%20titles%20and%20industries.csv)
+* [Dataset](https://github.com/rehamessameltagoury/IndustryClassificationTask/blob/main/Job%20titles%20and%20industries.csv)
+* [ML Task Solution](https://github.com/rehamessameltagoury/IndustryClassificationTask/blob/main/MLTASK.ipynb)
+* [Deploying ML Model Using Flask](https://github.com/rehamessameltagoury/IndustryClassificationTask/blob/main/Server.ipynb)
